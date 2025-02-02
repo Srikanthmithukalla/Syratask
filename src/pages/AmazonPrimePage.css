@@ -1,0 +1,27 @@
+.amazonPrimePage .banner {
+    position: relative;
+  }
+  
+  .amazonPrimePage .banner-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-around;
+  }
+  
+  .movie-item {
+    margin: 10px;
+  }
+  
+  .movie-img {
+    width: 200px;
+    height: 275px;
+    object-fit: cover;
+    border-radius: 5px;
+  }

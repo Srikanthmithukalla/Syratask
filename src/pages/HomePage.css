@@ -1,0 +1,35 @@
+.homePage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    background-color: #333;
+    color: white;
+    background-image: url(https://th.bing.com/th/id/OIP.5bgHS1ZaVvJ5B60LeqdyOQHaEJ?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  .homePage p{
+    font-size: 30px;
+    color: wheat;
+  }
+  
+  .home-links {
+    margin-top: 20px;
+  }
+  
+  .link {
+    background-color: #e50914;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .link:hover {
+    background-color: blue;
+  }
