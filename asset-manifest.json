@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Syratask/static/css/main.dfb0c290.css",
-    "main.js": "/Syratask/static/js/main.2a27f487.js",
+    "main.js": "/Syratask/static/js/main.a17371ae.js",
     "index.html": "/Syratask/index.html",
     "main.dfb0c290.css.map": "/Syratask/static/css/main.dfb0c290.css.map",
-    "main.2a27f487.js.map": "/Syratask/static/js/main.2a27f487.js.map"
+    "main.a17371ae.js.map": "/Syratask/static/js/main.a17371ae.js.map"
   },
   "entrypoints": [
     "static/css/main.dfb0c290.css",
-    "static/js/main.2a27f487.js"
+    "static/js/main.a17371ae.js"
   ]
 }
